@@ -1,5 +1,5 @@
 {
-  "ModId": "PAK_DR1.Stream.Emulator",
+  "ModId": "reloaded.universal.fileemulationframework.pak",
   "ModName": "Pak (Spike Chunsoft) Emulator for File Emulation Framework",
   "ModAuthor": "morgana",
   "ModVersion": "1.0.0",
@@ -13,7 +13,7 @@
   "IsLibrary": true,
   "ReleaseMetadataFileName": "PAK_DR1.Stream.Emulator.ReleaseMetadata.json",
   "PluginData": {
-     "GitHubDependencies": {
+    "GitHubDependencies": {
       "IdToConfigMap": {
         "reloaded.sharedlib.hooks": {
           "Config": {
