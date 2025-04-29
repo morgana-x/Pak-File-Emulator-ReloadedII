@@ -11,3 +11,5 @@ Then put a named file that is named after it's index (eg 53.tga etc) (file exten
 Then the file at slot 53 should be replaced with your new one
 
 Now you can edit the pak file without repacking it every 10 seconds!
+
+eg: `FEmulator/PAK/bg_103.pak/24.tga`
