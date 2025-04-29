@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAK_DR1.Stream.Emulator", "PAK_DR1.Stream.Emulator.csproj", "{83396884-109C-4865-A8A7-1944B578085F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAK_DR1.Stream.Emulator", "pak_dr1.Stream.Emulator\PAK_DR1.Stream.Emulator.csproj", "{D6F98D61-A121-473B-9DAB-A5B2309FD7EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83396884-109C-4865-A8A7-1944B578085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83396884-109C-4865-A8A7-1944B578085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83396884-109C-4865-A8A7-1944B578085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83396884-109C-4865-A8A7-1944B578085F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F98D61-A121-473B-9DAB-A5B2309FD7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F98D61-A121-473B-9DAB-A5B2309FD7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F98D61-A121-473B-9DAB-A5B2309FD7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F98D61-A121-473B-9DAB-A5B2309FD7EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
